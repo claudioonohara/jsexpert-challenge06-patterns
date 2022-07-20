@@ -11,16 +11,15 @@
 Com o objetivo de colocar vocês para pensar em quais design patterns usar dado um cenário prático, usando o conteúdo visto no `módulo 07 - Design Patterns PT 01 - Best Practices and Creational Design Patterns`, você deverá criar um **Serviço de Envio de Mensagens**, apresentando a melhor grupo de padrões para **enviar mensagens em diferentes plataformas** com o máximo de planejamento e qualidade usando as boas práticas `DRY`, `KISS` e `YAGNI`, juntamente com `Clean Code` e `SOLID`, e lembrando de reconhecer os comportamentos em comum do sistema para aplicar os `Design Patterns` que melhor servir ao desenvolvimento da sua solução!
 
 Design Patterns sugeridos para serem implementados aqui:
-[ ] Factory
-[ ] Abstract Factory
-[ ] N-Tiers Architecture
-[ ] Dependency Injection 
-[ ] Interfaces Simuladas
-[ ] Builder
-[ ] Fluent API
-[ ] Facade
-[ ] Test Data Builder
-[ ] Object Mother
+- [ ] Factory
+- [ ] Abstract Factory
+- [ ] N-Tiers Architecture
+- [ ] Dependency Injection 
+- [ ] Builder
+- [ ] Fluent API
+- [ ] Facade
+- [ ] Test Data Builder
+- [ ] Object Mother
 
 > Nota do Wells: **Não precisa usar todos**, mas no decorrer da implementação quando bater aquela clááássica dúvida dev: "Caramba, como eu organizo isso? 🤔"; Muito provavelmente é a hora de revisar os conceitos e os códigos do módulo, pois muito provavelmente existe um Design Pattern pra isso!
 
@@ -66,6 +65,7 @@ Então o que será avaliado é:
 ```
 project
 │   README.md
+│   ARCHITECTURE.md
 │   package.json
 │
 │   // QUE OS JOGOS COMECEM
@@ -90,5 +90,5 @@ project
 
 ## Até quando?
 
-Se você está pegando esse desafio na estréia, corre lá e envia pra gente até `Quarta-feira, 10 de agosto de 2022 (10/08/2022)_!
+Se você está pegando esse desafio na estréia, corre lá e envia pra gente até _Quarta-feira, 10 de agosto de 2022 (10/08/2022)_!
 
