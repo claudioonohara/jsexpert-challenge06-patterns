@@ -1,4 +1,4 @@
-[challengeguide]: https://wellssa.github.io/jsexpert-challenge-guide/
+[challengeguide]: https://github.com/training-erickwendel/jsexpert-challenge-guide/
 
 > ATENÇÃO: ESTE DESAFIO É EXTREMAMENTE EXPERT, RECOMENDAMOS FAZER O RESTANTE DO CURSO ATÉ AQUI ANTES DE MERGULHAR NAS ARQUITETURAS EXIGIDAS DESSE DESAFIO EM DIANTE
 
