@@ -1,3 +1,5 @@
+Challenger: Claudio Onohara
+
 [challengeguide]: https://github.com/training-erickwendel/jsexpert-challenge-guide/
 
 > ATENÇÃO: ESTE DESAFIO É EXTREMAMENTE EXPERT, RECOMENDAMOS FAZER O RESTANTE DO CURSO ATÉ AQUI ANTES DE MERGULHAR NAS ARQUITETURAS EXIGIDAS DESSE DESAFIO EM DIANTE
@@ -11,15 +13,15 @@
 Com o objetivo de colocar vocês para pensar em quais design patterns usar dado um cenário prático, usando o conteúdo visto no `módulo 07 - Design Patterns PT 01 - Best Practices and Creational Design Patterns`, você deverá criar um **Serviço de Envio de Mensagens**, apresentando a melhor grupo de padrões para **enviar mensagens em diferentes plataformas** com o máximo de planejamento e qualidade usando as boas práticas `DRY`, `KISS` e `YAGNI`, juntamente com `Clean Code` e `SOLID`, e lembrando de reconhecer os comportamentos em comum do sistema para aplicar os `Design Patterns` que melhor servir ao desenvolvimento da sua solução!
 
 Design Patterns sugeridos para serem implementados aqui:
-- [ ] Factory
-- [ ] Abstract Factory
-- [ ] N-Tiers Architecture
-- [ ] Dependency Injection 
+- [ X ] Factory
+- [ X ] Abstract Factory
+- [ X ] N-Tiers Architecture
+- [ X ] Dependency Injection 
 - [ ] Builder
 - [ ] Fluent API
-- [ ] Facade
+- [ X ] Facade
 - [ ] Test Data Builder
-- [ ] Object Mother
+- [ X ] Object Mother
 
 > Nota do Wells: **Não precisa usar todos**, mas no decorrer da implementação quando bater aquela clááássica dúvida dev: "Caramba, como eu organizo isso? 🤔"; Muito provavelmente é a hora de revisar os conceitos e os códigos do módulo, pois muito provavelmente existe um Design Pattern pra isso!
 
@@ -52,10 +54,10 @@ Então o que será avaliado é:
 
 ## Requisitos do desafio
 
-- [ ] Entendimento dos requisitos e implementação da solução
-- [ ] Uso de **no mínimo 6** dos Design Patterns mencionados
-- [ ] Documentação de quais Design Patterns decidiu usar e por quê no arquivo `ARCHITECTURE.md`
-- [ ] Testes Unitários e **100% de Code Coverage**
+- [X] Entendimento dos requisitos e implementação da solução
+- [X] Uso de **no mínimo 6** dos Design Patterns mencionados
+- [X] Documentação de quais Design Patterns decidiu usar e por quê no arquivo `ARCHITECTURE.md`
+- [X] Testes Unitários e **100% de Code Coverage**
 - [ ] (opcional) Uso de TDD do início ao fim do projeto
 
 > Dica do Wells: lembre-se de conferir os **projetos feitos em aula durante o módulo 07** para ter uma idéia do que usar :)

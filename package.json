@@ -1,0 +1,27 @@
+{
+  "name": "jsexpert-challenge06-patterns",
+  "version": "1.0.0",
+  "description": "[challengeguide]: https://github.com/training-erickwendel/jsexpert-challenge-guide/",
+  "scripts": {
+    "test:dev": "NODE_ENV=test npx mocha -w --parallel **/**/*.test.js",
+    "test": "NODE_ENV=test npx mocha **/**/*.test.js",
+    "test:cov": "NODE_ENV=test npx nyc npx mocha --exit --parallel **/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudioonohara/jsexpert-challenge06-patterns.git"
+  },
+  "keywords": [],
+  "author": "Claudio Onohara <claudioonohara@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudioonohara/jsexpert-challenge06-patterns/issues"
+  },
+  "homepage": "https://github.com/claudioonohara/jsexpert-challenge06-patterns#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "nyc": "^15.1.0",
+    "sinon": "^14.0.0"
+  }
+}

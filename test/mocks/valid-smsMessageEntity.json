@@ -1,0 +1,5 @@
+{
+  "from": "SMS Sender",
+  "to": "SMS Receiver",
+  "message": "SMS message"
+}

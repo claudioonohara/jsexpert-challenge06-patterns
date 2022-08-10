@@ -1,0 +1,5 @@
+{
+  "from": "Email Sender",
+  "to": "Email Receiver",
+  "message": "Email message"
+}
